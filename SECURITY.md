@@ -1,7 +1,5 @@
 # Security Policy
 
-more content
-
 ## Reporting a Vulnerability
 
 Please report security vulnerabilities by opening a confidential issue
