@@ -6,6 +6,3 @@ Please report security vulnerabilities in `klml_test` to the repository maintain
 or by opening a confidential issue.
 
 Do **not** disclose security issues publicly until they have been addressed.
-
-
-mehr 
